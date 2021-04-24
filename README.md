@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Bhairav 👋
 
 <!--
 **bhairavmehta95/bhairavmehta95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am the founder and CEO of [q&ai](https://qandai.org), a platform to enable faster, stronger, and smarter customer-facing teams. Previously, I was a PhD student at the Massachusetts Institute of Technology, studying deep and multi-task learning. I have a Masters in Deep Learning from [Mila](http://mila.quebec/), and a Bachelors in Computer Science from the University of Michigan. Before q&ai, I worked as a research intern at NASA's Jet Propulsion Laboratory and NVIDIA's Seattle Robotics Lab. My [LinkedIn](https://www.linkedin.com/in/bhairav-mehta/) is the most up-to-date, but you may also be looking for my old [academic site](https://bhairavmehta95.github.io/) or my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=uPtOmHcAAAAJ). 
